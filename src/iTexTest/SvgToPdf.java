@@ -34,9 +34,9 @@ import com.itextpdf.text.pdf.PdfWriter;
 public class SvgToPdf {
 
     /** The resulting PDF. */
-    public static final String RESULT = "results/7seasonalityGraph1.pdf";
+    public static final String RESULT = "results/foobarcity.pdf";
     /** The map (shapes). */
-    public static final String CITY = "results/7seasonalityGraph1.svg";
+    public static final String CITY = "results/foobarcity.svg";
     /** The map (text = street names in English). */
     /*public static final String STREETS = "resources/xml/foobarstreets.svg";*/
     
